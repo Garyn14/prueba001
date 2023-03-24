@@ -1,2 +1,6 @@
 # prueba001
-prueba
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
